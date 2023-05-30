@@ -149,7 +149,7 @@ section {
   display: flex;
   align-items: center;
   margin: auto;
-  padding: 0px 15px;
+  padding: 3px 15px;
   background-color: var(--neutral);
   color: var(--button);
   font-size: 25px;
