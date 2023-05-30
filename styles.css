@@ -67,6 +67,8 @@ section {
   color: var(--headline);
   display: flex;
   flex-direction: column;
+  padding-left: 20%;
+  padding-right: 20%;
 }
 
 #welcome-section h1 {
